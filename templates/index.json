@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Prod",
+            "heading": "preprod",
             "heading_size": "medium"
           }
         },
