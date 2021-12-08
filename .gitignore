@@ -1,4 +1,5 @@
 .idea/
 config
 locales
+templates
 *.json
